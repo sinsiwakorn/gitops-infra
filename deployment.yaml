@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: sinsiwakorn/reactapp-ci:1.0
+        image: sinsiwakorn/reactapp-ci:7ee8ecc9e6e830a73d8b47e1ad7d896f5423f6cd
         imagePullPolicy: Always
         resources:
           limits:
